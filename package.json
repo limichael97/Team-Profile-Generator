@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/limichael97/Team-Profile-Generator#readme",
   "dependencies": {
+    "bulma": "^0.9.3",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0",
     "path": "^0.12.7"
