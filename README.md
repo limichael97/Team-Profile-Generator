@@ -20,10 +20,10 @@ This project is licensed under the MIT license.
 # Installation
 Download the repository from Github
 # Usage
-Open terminal, type "node index.js" in the command line, answer the prompts then a README.md will be generated
+Open terminal, type "node index.js" in the command line, answer the prompts then a the team.html will be generated
 
 Video tutorial:
-https://www.youtube.com/watch?v=__6ZOUeAde8
+https://www.youtube.com/watch?v=uIAxGYIiOUQ
 # Contributing
 Michael Li
 # Tests
