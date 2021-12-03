@@ -1,6 +1,8 @@
 # Team-Profile-Generator ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Description
+![image](https://user-images.githubusercontent.com/90745029/144548188-742c479b-37da-4665-b7df-92c0dd1c66f3.png)
+
 To be able to quickly generate a Team Profile page 
 # License
 This project is licensed under the MIT license.
